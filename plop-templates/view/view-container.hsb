@@ -1,0 +1,16 @@
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
+import styled from 'styled-components';
+
+class {{ name }} extends Component {
+  render() {
+    return (
+      <div></div>
+    );
+  }
+}
+
+{{ name }}.propTypes = {};
+{{ name }}.defaultProps = {};
+
+export default {{ name }};
